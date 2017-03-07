@@ -50,6 +50,7 @@ public class BodyView : MonoBehaviour
     private void Awake()
     {
         DontDestroyOnLoad(gameObject);
+        //DontDestroyOnLoad();
     }
 
     // check if BodyManager has data
@@ -111,6 +112,7 @@ public class BodyView : MonoBehaviour
                 if (!_Bodies.ContainsKey(body.TrackingId)) // if list of bodies contains not current tracking id
                 {
                     _Bodies [body.TrackingId] = CreateBodyObject (body.TrackingId); // Create body object with id and connected joints
+                    _Bodies[body.TrackingId].gameObject.tag = "Player";
                 }
                 RefreshBodyObject (body, _Bodies [body.TrackingId]); // Refresh current body and its GameObject
             }

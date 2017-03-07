@@ -1,10 +1,12 @@
 ﻿using Windows.Kinect;
 using System.Collections;
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using UnityEngine;
 
 public class BodyManager : MonoBehaviour
 {
+    public static BodyManager BM;
     // Sensor data from Kinect
     private KinectSensor _Sensor;
 
@@ -39,25 +41,37 @@ public class BodyManager : MonoBehaviour
 
     private void Awake()
     {
-        DontDestroyOnLoad(gameObject);
+        if (BM == null)
+        {
+            DontDestroyOnLoad(gameObject);
+            BM = this;
+        }
+        else
+        {
+            if (BM != null)
+            {
+                Destroy(gameObject);
+            }
+        }
     }
+
 
     // Establish connection for Kinect
     void Start ()
     {
-        Debug.Log("BODYMANAGER");
+
 
         _Sensor = KinectSensor.GetDefault ();
 
         if (_Sensor != null)
         {
-            _bodies = new Body[_Sensor.BodyFrameSource.BodyCount];
             _Reader = _Sensor.BodyFrameSource.OpenReader ();
 
             // check if body data is available in frame
             if (_bodies == null)
             {
                 Debug.Log("_bodies: " + GetBodies());
+                _bodies = new Body[_Sensor.BodyFrameSource.BodyCount];
                 // initialize bodies array with # of bodies (default 6)
                 Debug.Log("_bodies new: " + GetBodies());
             }

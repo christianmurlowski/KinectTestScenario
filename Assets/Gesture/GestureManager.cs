@@ -10,7 +10,7 @@ using System.Text;
 public class GestureManager : MonoBehaviour
 {
     // GameObject of BodyManager
-    public GameObject BodyManager;
+    private GameObject _gameObjectBM;
 
     // private variable for usage of BodyManager
     private BodyManager _bodyManager;
@@ -47,13 +47,15 @@ public class GestureManager : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+/*
+        _gameObjectBM = BodyManager.BM;
         if (BodyManager == null)
         {
             return;
         }
-
-        _bodyManager = BodyManager.GetComponent<BodyManager>();
+*/
+       // _bodyManager = BodyManager.GetComponent<BodyManager>();
+        _bodyManager = BodyManager.BM;
         if (_bodyManager == null)
         {
             return;

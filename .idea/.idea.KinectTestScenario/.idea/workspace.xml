@@ -74,30 +74,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="CanvasManager.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasManager.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="420">
-                  <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-                  <folding>
-                    <marker date="1488881159425" expanded="true" signature="6:78" ph="..." />
-                    <marker date="1488881159425" expanded="true" signature="122:1369" ph="{...}" />
-                    <marker date="1488881159425" expanded="true" signature="346:507" ph="{...}" />
-                    <marker date="1488881159425" expanded="true" signature="538:1367" ph="{...}" />
-                    <marker date="1488881159425" expanded="true" signature="751:922" ph="/* Debug.Log(&quot;Canvasname: &quot; + _canvasGroupCurrent.name); ... */" />
-                    <marker date="1488881159425" expanded="true" signature="981:1190" ph="{...}" />
-                    <marker date="1488881159425" expanded="true" signature="1104:1180" ph="{...}" />
-                    <marker date="1488881159425" expanded="true" signature="1203:1308" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="CanvasExerciseManager.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasExerciseManager.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1490">
-                  <caret line="117" column="40" lean-forward="false" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="40" />
+                <state relative-caret-position="945">
+                  <caret line="153" column="39" lean-forward="false" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="39" />
                   <folding>
                     <marker date="1488878964496" expanded="true" signature="6:100" ph="..." />
                     <marker date="1488878964496" expanded="true" signature="152:3792" ph="{...}" />
@@ -125,30 +106,22 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="BodyManager.cs" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyManager.cs">
+          <file leaf-file-name="CanvasManager.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasManager.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+                <state relative-caret-position="575">
+                  <caret line="43" column="54" lean-forward="false" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
                   <folding>
-                    <marker date="1488881273362" expanded="true" signature="6:100" ph="..." />
-                    <marker date="1488881273362" expanded="true" signature="142:2543" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="461:497" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="546:582" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="619:655" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="686:727" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="753:804" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="862:1577" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="979:1571" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="1207:1419" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="1453:1561" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="1644:2174" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="1746:2168" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="1879:2158" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="2248:2541" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="2283:2363" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="2393:2535" ph="{...}" />
-                    <marker date="1488881273362" expanded="true" signature="2435:2497" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="6:113" ph="..." />
+                    <marker date="1488915973652" expanded="true" signature="157:1930" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="416:577" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="608:1756" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="934:1106" ph="/* Debug.Log(&quot;Canvasname: &quot; + _canvasGroupCurrent.name); ... */" />
+                    <marker date="1488915973652" expanded="true" signature="1165:1374" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="1288:1364" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="1433:1579" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="1592:1697" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="1801:1928" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -157,37 +130,37 @@
           <file leaf-file-name="BodyView.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyView.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="435">
-                  <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+                <state relative-caret-position="630">
+                  <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
                   <folding>
-                    <marker date="1488881027537" expanded="true" signature="6:109" ph="..." />
-                    <marker date="1488881027537" expanded="true" signature="148:7941" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="679:2389" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="2416:2467" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="2524:4537" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="2587:2627" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="2757:2797" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="2909:2949" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="3096:3349" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="3136:3190" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="3223:3339" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="3487:3777" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="3646:3767" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="3837:4531" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="3877:3931" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="3964:4388" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="4091:4262" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="4538:4608" ph="/* Update ... */" />
-                    <marker date="1488881027537" expanded="true" signature="4658:5660" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="4949:5633" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="5773:7259" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="5920:7253" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="6204:6321" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="6776:7162" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="7179:7243" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="7366:7562" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="7675:7939" ph="{...}" />
-                    <marker date="1488881027537" expanded="true" signature="7700:7933" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="6:109" ph="..." />
+                    <marker date="1488915910612" expanded="true" signature="148:8044" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="679:2389" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="2416:2498" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="2555:4640" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="2618:2658" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="2788:2828" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="2940:2980" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3127:3380" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3167:3221" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3254:3370" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3518:3808" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3677:3798" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3868:4634" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3908:3962" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3995:4491" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="4122:4365" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="4641:4711" ph="/* Update ... */" />
+                    <marker date="1488915910612" expanded="true" signature="4761:5763" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="5052:5736" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="5876:7362" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="6023:7356" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="6307:6424" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="6879:7265" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="7282:7346" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="7469:7665" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="7778:8042" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="7803:8036" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -200,27 +173,27 @@
           <file leaf-file-name="GestureManager.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Assets/Gesture/GestureManager.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+                <state relative-caret-position="720">
+                  <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
                   <folding>
-                    <marker date="1488881495713" expanded="true" signature="6:193" ph="..." />
-                    <marker date="1488881495713" expanded="true" signature="238:4778" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="1221:2216" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="1261:1301" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="1400:1440" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="1748:1860" ph="/* _bodyFrameReader = _kinectSensor.BodyFrameSource.OpenReader(); ... */" />
-                    <marker date="1488881495713" expanded="true" signature="2067:2210" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="2274:3420" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="2285:2581" ph="/* bool newBodyData = false; ... */" />
-                    <marker date="1488881495713" expanded="true" signature="2649:3414" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="2736:3404" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="2831:3390" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="2986:3372" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="3511:3618" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="3704:4756" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="3984:4749" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="4232:4739" ph="{...}" />
-                    <marker date="1488881495713" expanded="true" signature="4346:4725" ph="/* ConfidenceTextGameObject.text += &quot; WHOOP &quot;; ... */" />
+                    <marker date="1488885628388" expanded="true" signature="6:193" ph="..." />
+                    <marker date="1488885628388" expanded="true" signature="238:4866" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="1224:2304" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="1231:1349" ph="/* _gameObjectBM = BodyManager.BM; ... */" />
+                    <marker date="1488885628388" expanded="true" signature="1488:1528" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="1836:1948" ph="/* _bodyFrameReader = _kinectSensor.BodyFrameSource.OpenReader(); ... */" />
+                    <marker date="1488885628388" expanded="true" signature="2155:2298" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="2362:3508" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="2373:2669" ph="/* bool newBodyData = false; ... */" />
+                    <marker date="1488885628388" expanded="true" signature="2737:3502" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="2824:3492" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="2919:3478" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="3074:3460" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="3599:3706" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="3792:4844" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="4072:4837" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="4320:4827" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="4434:4813" ph="/* ConfidenceTextGameObject.text += &quot; WHOOP &quot;; ... */" />
                   </folding>
                 </state>
               </provider>
@@ -261,24 +234,9 @@
           <file leaf-file-name="KinectManager.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/../KinectGestures/Assets/Gesture/KinectManager.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="825">
-                  <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+                <state relative-caret-position="900">
+                  <caret line="60" column="6" lean-forward="false" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ButtonClick.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/ButtonClick.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="22" />
-                  <folding>
-                    <marker date="1488874985227" expanded="true" signature="6:162" ph="..." />
-                    <marker date="1488874985227" expanded="true" signature="204:638" ph="{...}" />
-                    <marker date="1488874985227" expanded="true" signature="363:634" ph="{...}" />
-                    <marker date="1488874985227" expanded="true" signature="545:629" ph="{...}" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -289,7 +247,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>colorFrameReader</find>
       <find>leang</find>
       <find>desc</find>
       <find>bodyColors</find>
@@ -319,7 +276,11 @@
       <find>ready</find>
       <find>dispos</find>
       <find>ges</find>
+      <find>getha</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -351,10 +312,10 @@
         <option value="$PROJECT_DIR$/Assets/Gesture/Class1.cs" />
         <option value="$PROJECT_DIR$/Assets/KinectUIModule/Scripts/ButtonClick.cs" />
         <option value="$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasExerciseManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyView.cs" />
-        <option value="$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasManager.cs" />
         <option value="$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Gesture/GestureManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasManager.cs" />
       </list>
     </option>
   </component>
@@ -364,6 +325,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -521,12 +483,12 @@
       <workItem from="1488703050891" duration="10049000" />
       <workItem from="1488753226428" duration="30554000" />
       <workItem from="1488872686309" duration="4794000" />
-      <workItem from="1488878392149" duration="3319000" />
+      <workItem from="1488878392149" duration="10889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110432000" />
+    <option name="totallyTimeSpent" value="118002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -541,28 +503,28 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04424307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04424307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -594,7 +556,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -746,25 +711,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/KinectInputModule.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="212" column="23" lean-forward="false" selection-start-line="212" selection-start-column="18" selection-end-line="212" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../KinectGestures/Assets/Gesture/GestureDetector.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="108" column="67" lean-forward="true" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../KinectGestures/Assets/Gesture/KinectManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,43 +744,6 @@
             <marker date="1488711001346" expanded="true" signature="4915:5022" ph="{...}" />
             <marker date="1488711001346" expanded="true" signature="5063:5238" ph="{...}" />
             <marker date="1488711001346" expanded="true" signature="5116:5188" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/KinectUI/AbstractKinectUICursor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/ButtonClick.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <marker date="1488874985227" expanded="true" signature="6:162" ph="..." />
-            <marker date="1488874985227" expanded="true" signature="204:638" ph="{...}" />
-            <marker date="1488874985227" expanded="true" signature="363:634" ph="{...}" />
-            <marker date="1488874985227" expanded="true" signature="545:629" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding>
-            <marker date="1488881159425" expanded="true" signature="6:78" ph="..." />
-            <marker date="1488881159425" expanded="true" signature="122:1369" ph="{...}" />
-            <marker date="1488881159425" expanded="true" signature="346:507" ph="{...}" />
-            <marker date="1488881159425" expanded="true" signature="538:1367" ph="{...}" />
-            <marker date="1488881159425" expanded="true" signature="751:922" ph="/* Debug.Log(&quot;Canvasname: &quot; + _canvasGroupCurrent.name); ... */" />
-            <marker date="1488881159425" expanded="true" signature="981:1190" ph="{...}" />
-            <marker date="1488881159425" expanded="true" signature="1104:1180" ph="{...}" />
-            <marker date="1488881159425" expanded="true" signature="1203:1308" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -893,10 +806,158 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/ButtonClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <marker date="1488874985227" expanded="true" signature="6:162" ph="..." />
+            <marker date="1488874985227" expanded="true" signature="204:638" ph="{...}" />
+            <marker date="1488874985227" expanded="true" signature="363:634" ph="{...}" />
+            <marker date="1488874985227" expanded="true" signature="545:629" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../KinectGestures/Assets/Gesture/KinectManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="6" lean-forward="false" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="34" lean-forward="false" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+          <folding>
+            <marker date="1488885048132" expanded="true" signature="6:136" ph="..." />
+            <marker date="1488885048132" expanded="true" signature="178:2782" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="531:567" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="616:652" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="689:725" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="756:797" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="823:1071" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="853:939" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="952:1065" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="990:1055" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1130:1816" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1214:1810" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1375:1658" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1692:1800" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1883:2413" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1985:2407" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="2118:2397" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="2487:2780" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="2522:2602" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="2632:2774" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="2674:2736" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Gesture/GestureManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+          <folding>
+            <marker date="1488885628388" expanded="true" signature="6:193" ph="..." />
+            <marker date="1488885628388" expanded="true" signature="238:4866" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="1224:2304" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="1231:1349" ph="/* _gameObjectBM = BodyManager.BM; ... */" />
+            <marker date="1488885628388" expanded="true" signature="1488:1528" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="1836:1948" ph="/* _bodyFrameReader = _kinectSensor.BodyFrameSource.OpenReader(); ... */" />
+            <marker date="1488885628388" expanded="true" signature="2155:2298" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="2362:3508" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="2373:2669" ph="/* bool newBodyData = false; ... */" />
+            <marker date="1488885628388" expanded="true" signature="2737:3502" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="2824:3492" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="2919:3478" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="3074:3460" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="3599:3706" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="3792:4844" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="4072:4837" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="4320:4827" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="4434:4813" ph="/* ConfidenceTextGameObject.text += &quot; WHOOP &quot;; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/KinectInputModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="155" column="0" lean-forward="false" selection-start-line="155" selection-start-column="0" selection-end-line="163" selection-end-column="5" />
+          <folding>
+            <marker date="1488192782306" expanded="true" signature="6:72" ph="..." />
+            <marker date="1488192782306" expanded="true" signature="210:6609" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="470:1102" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="488:1096" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="526:1056" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="667:1042" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="730:933" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="1108:1241" ph="///  Call this from your Kinect body view from Update method ... " />
+            <marker date="1488192782306" expanded="true" signature="1278:1411" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="1336:1405" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="1546:2103" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="1590:1676" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="2139:2226" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="2231:2361" ph="/// Processes waitint over componens, if hovererd buttons click type is waitover, process it! ... " />
+            <marker date="1488192782306" expanded="true" signature="2396:3149" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="2454:3143" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="2748:3133" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="3155:3306" ph="///  Process pressing, event click trigered on button by closing and opening hand,sends submit event to gameobjec ... " />
+            <marker date="1488192782306" expanded="true" signature="3338:5547" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="3396:5541" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="3720:3847" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="4026:4596" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="4106:4582" ph="/* PointerEventData lookData = GetLookPointerEventData(_inputData[i].GetHandScreenPosition()); ... */" />
+            <marker date="1488192782306" expanded="true" signature="4828:5531" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="5157:5467" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="5552:5670" ph="/// Process hovering over component, sends pointer enter exit event to gameobject ... " />
+            <marker date="1488192782306" expanded="true" signature="5702:6189" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="5760:6183" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="6194:6338" ph="/// Used from UI hand cursor components ... " />
+            <marker date="1488192782306" expanded="true" signature="6404:6607" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="6462:6580" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="6660:10358" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="7165:7373" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="7183:7367" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="7496:8050" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="7554:8044" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="7606:8034" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="8511:8702" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="8565:8696" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="9216:9388" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="9483:9634" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="9749:10131" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="9777:10125" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="10247:10356" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="10392:10426" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="10455:10474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/KinectUI/AbstractKinectUICursor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <marker date="1488189496533" expanded="true" signature="6:88" ph="..." />
+            <marker date="1488189496533" expanded="true" signature="90:174" ph="/// Abstract UI component class for hand cursor objects ... " />
+            <marker date="1488189496533" expanded="true" signature="292:988" ph="{...}" />
+            <marker date="1488189496533" expanded="true" signature="455:484" ph="{...}" />
+            <marker date="1488189496533" expanded="true" signature="512:820" ph="{...}" />
+            <marker date="1488189496533" expanded="true" signature="854:945" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasExerciseManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1490">
-          <caret line="117" column="40" lean-forward="false" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="40" />
+        <state relative-caret-position="945">
+          <caret line="153" column="39" lean-forward="false" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="39" />
           <folding>
             <marker date="1488878964496" expanded="true" signature="6:100" ph="..." />
             <marker date="1488878964496" expanded="true" signature="152:3792" ph="{...}" />
@@ -925,91 +986,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyView.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        <state relative-caret-position="630">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
           <folding>
-            <marker date="1488881027537" expanded="true" signature="6:109" ph="..." />
-            <marker date="1488881027537" expanded="true" signature="148:7941" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="679:2389" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="2416:2467" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="2524:4537" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="2587:2627" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="2757:2797" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="2909:2949" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="3096:3349" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="3136:3190" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="3223:3339" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="3487:3777" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="3646:3767" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="3837:4531" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="3877:3931" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="3964:4388" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="4091:4262" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="4538:4608" ph="/* Update ... */" />
-            <marker date="1488881027537" expanded="true" signature="4658:5660" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="4949:5633" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="5773:7259" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="5920:7253" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="6204:6321" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="6776:7162" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="7179:7243" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="7366:7562" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="7675:7939" ph="{...}" />
-            <marker date="1488881027537" expanded="true" signature="7700:7933" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="6:109" ph="..." />
+            <marker date="1488915910612" expanded="true" signature="148:8044" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="679:2389" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="2416:2498" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="2555:4640" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="2618:2658" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="2788:2828" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="2940:2980" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3127:3380" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3167:3221" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3254:3370" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3518:3808" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3677:3798" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3868:4634" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3908:3962" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3995:4491" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="4122:4365" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="4641:4711" ph="/* Update ... */" />
+            <marker date="1488915910612" expanded="true" signature="4761:5763" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="5052:5736" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="5876:7362" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="6023:7356" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="6307:6424" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="6879:7265" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="7282:7346" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="7469:7665" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="7778:8042" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="7803:8036" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Gesture/GestureManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        <state relative-caret-position="575">
+          <caret line="43" column="54" lean-forward="false" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
           <folding>
-            <marker date="1488881495713" expanded="true" signature="6:193" ph="..." />
-            <marker date="1488881495713" expanded="true" signature="238:4778" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="1221:2216" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="1261:1301" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="1400:1440" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="1748:1860" ph="/* _bodyFrameReader = _kinectSensor.BodyFrameSource.OpenReader(); ... */" />
-            <marker date="1488881495713" expanded="true" signature="2067:2210" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="2274:3420" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="2285:2581" ph="/* bool newBodyData = false; ... */" />
-            <marker date="1488881495713" expanded="true" signature="2649:3414" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="2736:3404" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="2831:3390" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="2986:3372" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="3511:3618" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="3704:4756" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="3984:4749" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="4232:4739" ph="{...}" />
-            <marker date="1488881495713" expanded="true" signature="4346:4725" ph="/* ConfidenceTextGameObject.text += &quot; WHOOP &quot;; ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-          <folding>
-            <marker date="1488881273362" expanded="true" signature="6:100" ph="..." />
-            <marker date="1488881273362" expanded="true" signature="142:2543" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="461:497" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="546:582" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="619:655" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="686:727" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="753:804" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="862:1577" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="979:1571" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="1207:1419" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="1453:1561" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="1644:2174" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="1746:2168" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="1879:2158" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="2248:2541" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="2283:2363" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="2393:2535" ph="{...}" />
-            <marker date="1488881273362" expanded="true" signature="2435:2497" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="6:113" ph="..." />
+            <marker date="1488915973652" expanded="true" signature="157:1930" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="416:577" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="608:1756" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="934:1106" ph="/* Debug.Log(&quot;Canvasname: &quot; + _canvasGroupCurrent.name); ... */" />
+            <marker date="1488915973652" expanded="true" signature="1165:1374" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="1288:1364" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="1433:1579" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="1592:1697" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="1801:1928" ph="{...}" />
           </folding>
         </state>
       </provider>
